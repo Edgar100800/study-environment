@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Test artifacts
+test-results/
+playwright-report/
+
+# Course material (not distributed in this repo)
+clases/
+examenes/
+transcripcion_clases.md
+
+# Internal project docs
+PRODUCT.md
+DESIGN.md
+.impeccable/
+
+# OS / editor noise
+.DS_Store
+*.log
